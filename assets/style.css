@@ -12,6 +12,13 @@ font-size: 16px;
 padding-top: 10px;
 
 }
+h2 {
+	font-family: 'Bangers', cursive;
+	font-size: 24px;
+	color: red;
+	padding-top: 10px;
+	border-top: 2px solid #000000;
+}
 
 p:hover {
 	background-color: gray;
